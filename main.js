@@ -45,21 +45,29 @@ let track_list = [
     artist: "ZARD",
     path: "tracks/13-04 DAN DAN 心魅かれてく.mp3",
   },
+  {
+    name: "心を開いて",
+    artist: "ZARD",
+    path: "tracks/2-04 心を開いて.mp3",
+  },
+  {
+    name: "翼を広げて",
+    artist: "ZARD",
+    path: "tracks/1-12 翼を広げて.mp3",
+  },
+  {
+    name: "明日を夢見て",
+    artist: "ZARD",
+    path: "tracks/1-11 明日を夢見て.mp3",
+  },
+  {
+    name: "マイ フレンド",
+    artist: "ZARD",
+    path: "tracks/-02 マイ フレンド.mp3",
+  },
 ];
 
-function random_bg_color() {
 
-  // Get a number between 64 to 256 (for getting lighter colors)
-  let red = Math.floor(Math.random() * 256) + 64;
-  let green = Math.floor(Math.random() * 256) + 64;
-  let blue = Math.floor(Math.random() * 256) + 64;
-
-  // Construct a color withe the given values
-  let bgColor = "rgb(" + red + "," + green + "," + blue + ")";
-
-  // Set the background to that color
-  document.body.style.background = bgColor;
-}
 
 function loadTrack(track_index) {
   clearInterval(updateTimer);
