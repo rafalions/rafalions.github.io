@@ -13,13 +13,6 @@ body {
   justify-content: center;
 }
 
-.details {
-  display: flex;
-  align-items: center;
-  flex-direction: column;
-  justify-content: center;
-  margin-top: 25px;
-}
 
 .track-art {
   margin: 25px;
