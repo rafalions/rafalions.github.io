@@ -21,7 +21,11 @@ let curr_track = document.createElement('audio');
 
 // Define the tracks that have to be played
 let track_list = [
-
+  {
+    name: "Forever you",
+    artist: "ZARD",
+    path: "1-10 Forever you.mp3",
+  },
   {
     name: "Today is another day",
     artist: "ZARD",
@@ -37,13 +41,6 @@ let track_list = [
     artist: "ZARD",
     path: "1-04 Good-bye My Loneliness.mp3",
   },
-  {
-    name: "Forever you",
-    artist: "ZARD",
-    path: "1-10 Forever you.mp3",
-  }
-  
-
 ];
 
 function random_bg_color() {
