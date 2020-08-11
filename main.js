@@ -63,7 +63,22 @@ let track_list = [
   {
     name: "マイ フレンド",
     artist: "ZARD",
-    path: "tracks/-02 マイ フレンド.mp3",
+    path: "tracks/1-02 マイ フレンド.mp3",
+  },
+  {
+    name: "永遠",
+    artist: "ZARD",
+    path: "tracks/3-10 永遠.mp3",
+  },
+  {
+    name: "サヨナラは今もこの胸に居ます",
+    artist: "ZARD",
+    path: "tracks/3-11 サヨナラは今もこの胸に居ます.mp3",
+  },
+  {
+    name: "あの微笑みを忘れないで",
+    artist: "ZARD",
+    path: "tracks/3-13 あの微笑みを忘れないで.mp3",
   },
 ];
 
