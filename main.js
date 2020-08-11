@@ -21,72 +21,16 @@ let curr_track = document.createElement('audio');
 
 // Define the tracks that have to be played
 let track_list = [
-  // {
-  //   name: "Night Owl",
-  //   artist: "Broke For Free",
-  //   image: "https://images.pexels.com/photos/2264753/pexels-photo-2264753.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-  //   path: "tracks/Broke_For_Free_-_01_-_Night_Owl.mp3",
-  // },
+
   {
-    name: "Cardigan",
-    artist: "Taylor Swift",
-    path: "tracks/Taylor Swift-Cardigan.mp3",
-  },
-  {
-    name: "Head & Heart",
-    artist: "Joel Corry x MNEK",
-    path: "tracks/Joel Corry x MNEK-Head & Heart.mp3",
-  },
-  {
-    name: "Take Care Of You",
-    artist: "Ella Henderson",
-    path: "tracks/Ella Henderson-Take Care Of You.mp3",
-  },
-  {
-    name: "Savage Love",
-    artist: "Jason Derulo",
-    path: "tracks/Jason Derulo-Savage Love.mp3",
-  },
-  {
-    name: "Holiday",
-    artist: "Little Mix",
-    path: "tracks/Little Mix-Holiday.mp3",
-  },
-  {
-    name: "Heaven On My Mind",
-    artist: "Becky Hill, Sigala",
-    path: "tracks/Becky Hill, Sigala-Heaven On My Mind.mp3",
-  },
-  {
-    name: "Me Because Of You",
-    artist: "HRVY",
-    path: "tracks/HRVY-Me Because Of You.mp3",
-  },
-  {
-    name: "Hallucinate",
-    artist: "Dua Lipa",
-    path: "tracks/Dua Lipa-Hallucinate.mp3",
-  },
-  {
-    name: "My Oasis",
-    artist: "Sam Smith",
-    path: "tracks/Sam Smith-My Oasis.mp3",
-  },
-  {
-    name: "Rain On Me",
-    artist: "Lady Gaga, Ariana Grande",
-    path: "tracks/Lady Gaga, Ariana Grande-Rain On Me.mp3",
-  },
-  {
-    name: "To Be Young",
-    artist: "Anne Marie",
-    path: "tracks/Anne Marie-To Be Young.mp3",
-  },
-  {
-    name: "Kings & Queens",
-    artist: "Ava Max",
-    path: "tracks/Ava Max-Kings & Queens.mp3"
+    name: "Today is another day",
+    artist: "ZARD",
+    path: "3-06 Today is another day.mp3",
   }
+  
+
+ 
+
 ];
 
 function random_bg_color() {
