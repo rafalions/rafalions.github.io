@@ -26,10 +26,23 @@ let track_list = [
     name: "Today is another day",
     artist: "ZARD",
     path: "3-06 Today is another day.mp3",
+  },
+    {
+    name: "Don't you see!",
+    artist: "ZARD",
+    path: "1-01 Don't you see!.mp3",
+  },
+    {
+    name: "Good-bye My Loneliness",
+    artist: "ZARD",
+    path: "1-04 Good-bye My Loneliness.mp3",
+  },
+  {
+    name: "Forever you",
+    artist: "ZARD",
+    path: "1-10 Forever you.mp3",
   }
   
-
- 
 
 ];
 
