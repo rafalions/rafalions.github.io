@@ -43,7 +43,7 @@ let track_list = [
   {
     name: "DAN DAN 心魅かれてく",
     artist: "ZARD",
-    path: "tracks/13-04 DAN DAN 心魅かれてく.mp3",
+    path: "tracks/3-04 DAN DAN 心魅かれてく.mp3",
   },
   {
     name: "心を開いて",
