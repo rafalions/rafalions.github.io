@@ -2,61 +2,59 @@
 <head> 
   <meta charset="UTF-8"> 
   <title>music player</title> 
-  <style> 
-  button
-  { width: 40px; /* 寬 */ 
-  height: 40px; /* 高 */ 
-  background: #3c88dd; /* 背景色 */ 
-  border:none; /* 去掉邊框 */ 
-  color: white; /* 字的顏色 */ 
-  border-radius: 50%; /* 50%的圓角 */ 
-  cursor: pointer; /* 滑鼠懸在上時為手形 */ 
-  transition: 0.5s; /* 變化過渡，配合hover用 */
-  } 
-  button:hover
-  { /* 滑鼠懸在上時背景變色 */ 
-  background: #750f0f; } 
-  </style> 
  </head> 
- <body> 
- <font> Forever you </font>
- <audio controls id="mymp3"> <source src="tracks/1-10 Forever you.mp3" type="audio/mpeg"> </audio>
- <br>
- <font> Today is another day </font>
- <audio controls id="mymp3"> <source src="tracks/3-06 Today is another day.mp3" type="audio/mpeg"> </audio>
- <br>
- <font> Don't you see! </font>
- <audio controls id="mymp3"> <source src="tracks/1-01 Don't you see!.mp3" type="audio/mpeg"> </audio>
- <br>
- <font> Good-bye My Loneliness </font>
- <audio controls id="mymp3"> <source src="tracks/1-04 Good-bye My Loneliness.mp3" type="audio/mpeg"> </audio>
- <br>
- <font> DAN DAN 心魅かれてく </font>
- <audio controls id="mymp3"> <source src="tracks/3-04 DAN DAN 心魅かれてく.mp3" type="audio/mpeg"> </audio>
- <br>
- <font> 心を開いて </font>
- <audio controls id="mymp3"> <source src="tracks/2-04 心を開いて.mp3" type="audio/mpeg"> </audio>
- <br>
- <font> 翼を広げて </font>
- <audio controls id="mymp3"> <source src="tracks/1-12 翼を広げて.mp3" type="audio/mpeg"> </audio>
- <br>
- <font> 明日を夢見て</font>
- <audio controls id="mymp3"> <source src="tracks/1-11 明日を夢見て.mp3" type="audio/mpeg"> </audio>
- <br>
- <font> マイ フレンド </font>
- <audio controls id="mymp3"> <source src="tracks/1-02 マイ フレンド.mp3" type="audio/mpeg"> </audio>
- <br>
- <font> 永遠 </font>
- <audio controls id="mymp3"> <source src="tracks/3-10 永遠.mp3" type="audio/mpeg"> </audio>
- <br>
- <font> サヨナラは今もこの胸に居ます </font>
- <audio controls id="mymp3"> <source src="tracks/3-11 サヨナラは今もこの胸に居ます.mp3" type="audio/mpeg"> </audio>
- <br>
- <font> あの微笑みを忘れないで </font>
- <audio controls id="mymp3"> <source src="tracks/3-13 あの微笑みを忘れないで.mp3" type="audio/mpeg"> </audio>
- <br>
- <button id="btplay">播放</button> 
- <button id="btpause">暫停</button> 
+ <body>
+ <table border="1">
+ <tr>
+  <td>
+    <font> Forever you </font>
+    <audio controls id="mymp3"> <source src="tracks/1-10 Forever you.mp3" type="audio/mpeg"> </audio>
+  </td>
+  <td>
+    <font> Today is another day </font>
+    <audio controls id="mymp3"> <source src="tracks/3-06 Today is another day.mp3" type="audio/mpeg"> </audio>
+  </td>
+  <td>
+    <font> Don't you see! </font>
+    <audio controls id="mymp3"> <source src="tracks/1-01 Don't you see!.mp3" type="audio/mpeg"> </audio>
+  </td>
+  <td>
+    <font> Good-bye My Loneliness </font>
+    <audio controls id="mymp3"> <source src="tracks/1-04 Good-bye My Loneliness.mp3" type="audio/mpeg"> </audio>
+  </td>
+  <td>
+    <font> DAN DAN 心魅かれてく </font>
+    <audio controls id="mymp3"> <source src="tracks/3-04 DAN DAN 心魅かれてく.mp3" type="audio/mpeg"> </audio>
+  </td>
+  <td>
+    <font> 心を開いて </font>
+    <audio controls id="mymp3"> <source src="tracks/2-04 心を開いて.mp3" type="audio/mpeg"> </audio>
+  </td>
+  <td>
+    <font> 翼を広げて </font>
+    <audio controls id="mymp3"> <source src="tracks/1-12 翼を広げて.mp3" type="audio/mpeg"> </audio>
+  </td>
+  <td>
+    <font> 明日を夢見て</font>
+    <audio controls id="mymp3"> <source src="tracks/1-11 明日を夢見て.mp3" type="audio/mpeg"> </audio>
+  </td>
+  <td>
+    <font> マイ フレンド </font>
+    <audio controls id="mymp3"> <source src="tracks/1-02 マイ フレンド.mp3" type="audio/mpeg"> </audio>
+  </td>
+  <td>
+    <font> 永遠 </font>
+    <audio controls id="mymp3"> <source src="tracks/3-10 永遠.mp3" type="audio/mpeg"> </audio>
+  </td>
+  <td>
+    <font> サヨナラは今もこの胸に居ます </font>
+    <audio controls id="mymp3"> <source src="tracks/3-11 サヨナラは今もこの胸に居ます.mp3" type="audio/mpeg"> </audio>
+  </td>
+  <td>
+    <font> あの微笑みを忘れないで </font>
+    <audio controls id="mymp3"> <source src="tracks/3-13 あの微笑みを忘れないで.mp3" type="audio/mpeg"> </audio>
+  </td>
+ </table>
  <script> 
  var ebtplay = document.querySelector("#btplay"); 
  var ebtpause = document.querySelector("#btpause"); 
