@@ -1,0 +1,35 @@
+<!DOCTYPE html> <html lang="en"> 
+<head> 
+  <meta charset="UTF-8"> 
+  <title>Document</title> 
+  <style> 
+  button
+  { width: 40px; /* 寬 */ 
+  height: 40px; /* 高 */ 
+  background: #3c88dd; /* 背景色 */ 
+  border:none; /* 去掉邊框 */ 
+  color: white; /* 字的顏色 */ 
+  border-radius: 50%; /* 50%的圓角 */ 
+  cursor: pointer; /* 滑鼠懸在上時為手形 */ 
+  transition: 0.5s; /* 變化過渡，配合hover用 */
+  } 
+  button:hover
+  { /* 滑鼠懸在上時背景變色 */ 
+  background: #750f0f; } 
+  </style> 
+ </head> 
+ <body> 
+ <audio controls id="mymp3"> <source src="tracks/1-10 Forever you.mp3" type="audio/mpeg"> </audio>
+ <audio controls id="mymp3"> <source src="tracks/3-06 Today is another day.mp3" type="audio/mpeg"> </audio> 
+ <button id="btplay">播放</button> 
+ <button id="btpause">暫停</button> 
+ <script> 
+ var ebtplay = document.querySelector("#btplay"); 
+ var ebtpause = document.querySelector("#btpause"); 
+ var emymp3 = document.querySelector("#mymp3"); 
+ ebtplay.onclick = function () { emymp3.play(); };
+ ebtpause.onclick = function () { emymp3.pause(); } 
+ </script> 
+ </body> 
+ </html>
+
