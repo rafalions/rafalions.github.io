@@ -189,4 +189,44 @@
 		artist:"YUI",
 		src:"tracks/YUI- My friend.mp3"
 	},
+	{
+		name:"always",
+		artist:"倉木麻衣",
+		src:"tracks/always.mp3"
+	},
+	{
+		name:"Growing of my heart",
+		artist:"倉木麻衣",
+		src:"tracks/Growing of my heart.mp3"
+	},
+	{
+		name:"Secret of my heart",
+		artist:"倉木麻衣",
+		src:"tracks/Secret of my heart.mp3"
+	},
+	{
+		name:"Start in my life",
+		artist:"倉木麻衣",
+		src:"tracks/Start in my life.mp3"
+	},
+	{
+		name:"Time after time",
+		artist:"倉木麻衣",
+		src:"tracks/Time after time~花舞う街で~.mp3"
+	},
+	{
+		name:"風のららら",
+		artist:"倉木麻衣",
+		src:"tracks/風のららら.mp3"
+	},
+	{
+		name:"Winter Bells",
+		artist:"倉木麻衣",
+		src:"tracks/Winter Bells.mp3"
+	},
+	{
+		name:"渡月橋 ~君 想ふ~",
+		artist:"倉木麻衣",
+		src:"tracks/渡月橋 ~君 想ふ~.mp3"
+	},
 ];
