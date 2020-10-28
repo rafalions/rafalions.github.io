@@ -89,5 +89,55 @@ trackList = [
 		name:"後來",
 		artist:"劉若英",
 		src:"tracks/劉若英-後來.mp3"
+	},
+	{
+		name:"思念是一種病",
+		artist:"蔡健雅",
+		src:"tracks/張震嶽+蔡健雅-思念是一種病.mp3"
+	},
+	{
+		name:"拋物線",
+		artist:"蔡健雅",
+		src:"tracks/蔡健雅 - 若你碰到他 03.拋物線.mp3"
+	},
+	{
+		name:"原點",
+		artist:"蔡健雅",
+		src:"tracks/蔡健雅&孫燕姿-原點.mp3"
+	},
+	{
+		name:"達爾文",
+		artist:"蔡健雅",
+		src:"tracks/蔡健雅-Goodbye & Hello Demo-04.達爾文.mp3"
+	},
+	{
+		name:"空白格",
+		artist:"蔡健雅",
+		src:"tracks/蔡健雅-空白格.mp3"
+	},
+	{
+		name:"無底洞",
+		artist:"蔡健雅",
+		src:"tracks/蔡健雅-無底洞.mp3"
+	},
+	{
+		name:"當你離開的時候",
+		artist:"蔡健雅",
+		src:"tracks/蔡健雅-當你離開的時候.mp3"
+	},
+	{
+		name:"跟你借的幸福",
+		artist:"蔡健雅",
+		src:"tracks/蔡健雅-默契(新歌+精選)-08-跟你借的幸福.mp3"
+	},
+	{
+		name:"陌生人",
+		artist:"蔡健雅",
+		src:"tracks/蔡健雅-雙棲動物 - 12. 陌生人.mp3"
+	},
+	{
+		name:"雙棲動物",
+		artist:"蔡健雅",
+		src:"tracks/蔡健雅-雙棲動物.mp3"
 	}
 ];
