@@ -139,5 +139,80 @@ trackList = [
 		name:"雙棲動物",
 		artist:"蔡健雅",
 		src:"tracks/蔡健雅-雙棲動物.mp3"
+	},
+	{
+		name:"一起走過",
+		artist:"孫燕姿",
+		src:"tracks/孫燕姿 - 一起走過.mp3"
+	},
+	{
+		name:"我也很想他",
+		artist:"孫燕姿",
+		src:"tracks/孫燕姿 - 我也很想他.mp3"
+	},
+	{
+		name:"我不難過",
+		artist:"孫燕姿",
+		src:"tracks/孫燕姿 - 我不難過.mp3"
+	},
+	{
+		name:"我的愛",
+		artist:"孫燕姿",
+		src:"tracks/孫燕姿 - 我的愛.mp3"
+	},
+	{
+		name:"我懷念的",
+		artist:"孫燕姿",
+		src:"tracks/孫燕姿 - 我懷念的.mp3"
+	},
+	{
+		name:"雨天",
+		artist:"孫燕姿",
+		src:"tracks/孫燕姿 - 雨天.mp3"
+	},
+	{
+		name:"逆光",
+		artist:"孫燕姿",
+		src:"tracks/孫燕姿 - 逆光.mp3"
+	},
+	{
+		name:"第一天",
+		artist:"孫燕姿",
+		src:"tracks/孫燕姿 - 第一天.mp33"
+	},
+	{
+		name:"眼淚成詩",
+		artist:"孫燕姿",
+		src:"tracks/孫燕姿 - 眼淚成詩.mp3"
+	},
+	{
+		name:"開始懂了",
+		artist:"孫燕姿",
+		src:"tracks/孫燕姿 - 開始懂了.mp3"
+	},
+	{
+		name:"愛情字典",
+		artist:"孫燕姿",
+		src:"tracks/孫燕姿 - 愛情字典.mp3"
+	},
+	{
+		name:"愛情證書",
+		artist:"孫燕姿",
+		src:"tracks/孫燕姿 - 愛情證書.mp3"
+	},
+	{
+		name:"當冬夜漸暖",
+		artist:"孫燕姿",
+		src:"tracks/孫燕姿 - 當冬夜漸暖.mp3"
+	},
+	{
+		name:"遇見",
+		artist:"孫燕姿",
+		src:"tracks/孫燕姿 - 遇見.mp3"
+	},
+	{
+		name:"綠光",
+		artist:"孫燕姿",
+		src:"tracks/孫燕姿 - 綠光.mp3"
 	}
 ];
