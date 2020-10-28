@@ -1,232 +1,232 @@
 trackList = [
 	{
-		name:"Don't you see!",
-		artist:"ZARD",
-		src:"tracks/1-01 Don't you see!.mp3"
+		name:"綻放",
+		artist:"5566",
+		src:"tracks/03 綻放.wma"
 	},
 	{
-		name:"マイ フレンド",
-		artist:"ZARD",
-		src:"tracks/1-02 マイ フレンド.mp3"
+		name:"For You",
+		artist:"5566",
+		src:"tracks/04 For You.wma"
 	},
 	{
-		name:"Good-bye My Loneliness",
-		artist:"ZARD",
-		src:"tracks/1-04 Good-bye My Loneliness.mp3"
+		name:"One More Try",
+		artist:"5566",
+		src:"tracks/06 One More Try.wma"
 	},
 	{
-		name:"息もできない",
-		artist:"ZARD",
-		src:"tracks/1-07 息もできない.mp3"
+		name:"冷風過境",
+		artist:"5566",
+		src:"tracks/08 冷風過境.wma"
 	},
 	{
-		name:"Forever you",
-		artist:"ZARD",
-		src:"tracks/1-10 Forever you.mp3"
+		name:"守候",
+		artist:"5566",
+		src:"tracks/09 守候.wma"
 	},
 	{
-		name:"明日を夢見て",
-		artist:"ZARD",
-		src:"tracks/1-11 明日を夢見て.mp3"
+		name:"給我多一點",
+		artist:"SHE",
+		src:"tracks/S.H.E - SHE-給我多一點.mp3"
 	},
 	{
-		name:"翼を広げて",
-		artist:"ZARD",
-		src:"tracks/1-12 翼を広げて.mp3"
+		name:"熱帶雨林",
+		artist:"SHE",
+		src:"tracks/S.H.E - SHE-熱帶雨林.MP3"
 	},
 	{
-		name:"心を開いて",
-		artist:"ZARD",
-		src:"tracks/2-04 心を開いて.mp3"
+		name:"記得要忘記",
+		artist:"SHE",
+		src:"tracks/SHE - S.H.E。-記得要忘記.mp3"
 	},
 	{
-		name:"揺れる想い",
-		artist:"ZARD",
-		src:"tracks/2-05 揺れる想い.mp3"
+		name:"河濱公園",
+		artist:"SHE",
+		src:"tracks/SHE - S.H.E-河濱公園.mp3"
 	},
 	{
-		name:"かけがえのないもの",
-		artist:"ZARD",
-		src:"tracks/3-01 かけがえのないもの.mp3"
+		name:"愛情的海洋",
+		artist:"SHE",
+		src:"tracks/SHE - S.H.E-美麗新世界-05-愛情的海洋.mp3"
 	},
 	{
-		name:"DAN DAN 心魅かれてく",
-		artist:"ZARD",
-		src:"tracks/3-04 DAN DAN 心魅かれてく.mp3"
+		name:"戀人未滿",
+		artist:"SHE",
+		src:"tracks/SHE -戀人未滿.mp3"
 	},
 	{
-		name:"突然",
-		artist:"ZARD",
-		src:"tracks/3-05 突然.mp3"
+		name:"幸福留言",
+		artist:"SHE",
+		src:"tracks/SHE-PLAY-幸福留言.mp3"
 	},
 	{
-		name:"Today is another day",
-		artist:"ZARD",
-		src:"tracks/3-06 Today is another day.mp3"
+		name:"冰箱",
+		artist:"SHE",
+		src:"tracks/SHE-女生宿舍-03-冰箱.mp3"
 	},	
 	{
-		name:"Season",
-		artist:"ZARD",
-		src:"tracks/3-07 Season.mp3"
+		name:"妳還好不好",
+		artist:"SHE",
+		src:"tracks/SHE-女生宿舍-06-妳還好不好.mp3"
 	},	
 	{
-		name:"永遠",
-		artist:"ZARD",
-		src:"tracks/3-10 永遠.mp3"
+		name:"替我愛你",
+		artist:"SHE",
+		src:"tracks/SHE-女生宿舍-07-替我愛你.mp3"
 	},	
 	{
-		name:"サヨナラは今もこの胸に居ます",
-		artist:"ZARD",
-		src:"tracks/3-11 サヨナラは今もこの胸に居ます.mp3"
+		name:"非你莫屬",
+		artist:"TANK",
+		src:"tracks/04 非你莫屬.wma"
 	},
 	{
-		name:"あの微笑みを忘れないで",
-		artist:"ZARD",
-		src:"tracks/3-13 あの微笑みを忘れないで.mp3"
+		name:"嵐",
+		artist:"TANK",
+		src:"tracks/05 嵐.wma"
 	},	
 	{
-		name:"負けないで",
-		artist:"ZARD",
-		src:"tracks/4-13 負けないで.mp3"
+		name:"晴天雨",
+		artist:"TANK",
+		src:"tracks/07 晴天雨.wma"
 	},
 	{
-		name:"高嶺の花子さん",
-		artist:"Back Number",
-		src:"tracks/1-01 高嶺の花子さん.mp3"
+		name:"專屬天使",
+		artist:"TANK",
+		src:"tracks/08 專屬天使.wma"
 	},
 	{
-		name:"ハッピーエンド",
-		artist:"Back Number",
-		src:"tracks/1-03 ハッピーエンド.mp3"
+		name:"城裡的月光",
+		artist:"TANK",
+		src:"tracks/09 城裡的月光.wma"
 	},
 	{
-		name:"クリスマスソング",
-		artist:"Back Number",
-		src:"tracks/1-04 クリスマスソング.mp3"
+		name:"最後的微笑",
+		artist:"TANK",
+		src:"tracks/10 最後的微笑.wma"
 	},
 	{
-		name:"ヒロイン",
-		artist:"Back Number",
-		src:"tracks/2-10 ヒロイン.mp3"
+		name:"Dear Tank",
+		artist:"TANK",
+		src:"tracks/11 Dear Tank.wma"
 	},
 	{
-		name:"Precious",
-		artist:"May J",
-		src:"tracks/01 Precious.mp3"
+		name:"一首情歌",
+		artist:"阿杜",
+		src:"tracks/01 一首情歌.wma"
 	},
 	{
-		name:"島唄",
-		artist:"May J",
-		src:"tracks/02 島唄.mp3"
+		name:"爱字怎么写",
+		artist:"阿杜",
+		src:"tracks/02 爱字怎么写.wma"
 	},
 	{
-		name:"First Love",
-		artist:"May J",
-		src:"tracks/04 First Love.mp3"
+		name:"天涯海角",
+		artist:"阿杜",
+		src:"tracks/03 天涯海角.wma"
 	},
 	{
-		name:"夏祭り",
-		artist:"May J",
-		src:"tracks/06 夏祭り.mp3"
+		name:"认真",
+		artist:"阿杜",
+		src:"tracks/04 认真.wma"
 	},
 	{
-		name:"白い雲のように",
-		artist:"May J",
-		src:"tracks/08 白い雲のように with クリス・ハート.mp3"
+		name:"爱就是你",
+		artist:"阿杜",
+		src:"tracks/05 爱就是你.wma"
 	},
 	{
-		name:"secret base 〜君がくれたもの〜",
-		artist:"May J",
-		src:"tracks/09 secret base 〜君がくれたもの〜.mp3"
+		name:"他一定很爱你",
+		artist:"阿杜",
+		src:"tracks/06 他一定很爱你.wma"
 	},
 	{
-		name:"ハナミズキ",
-		artist:"May J",
-		src:"tracks/11 ハナミズキ.mp3"
+		name:"你就像个小孩",
+		artist:"阿杜",
+		src:"tracks/07 你就像个小孩.wma"
 	},
 	{
-		name:"I Believe [Japanese Version]",
-		artist:"May J",
-		src:"tracks/May J. - I Believe [Japanese Version] (feat. V.I from BIGBANG).mp3"
+		name:"离别",
+		artist:"阿杜",
+		src:"tracks/08 离别.wma"
 	},
 	{
-		name:"手紙 ~拝啓 十五の君へ",
-		artist:"May J",
-		src:"tracks/May J. - Tegami ~Haikei Juugo no Kimi e~ (手紙 ~拝啓 十五の君へ~) (R. Animir).mp3"
+		name:"走向前",
+		artist:"阿杜",
+		src:"tracks/09 走向前.wma"
 	},
 	{
-		name:"明日も",
-		artist:"SHISHAMO",
-		src:"tracks/11 明日も.mp3"
+		name:"撕夜",
+		artist:"阿杜",
+		src:"tracks/10 撕夜.wma"
 	},
 	{
-		name:"Gifts",
-		artist:"Superfly",
-		src:"tracks/01. Gifts.mp3"
+		name:"坚持到底",
+		artist:"阿杜",
+		src:"tracks/11 坚持到底.wma"
 	},
 	{
-		name:"Feel my soul",
-		artist:"YUI",
-		src:"tracks/YUI - Feel my soul.mp3"
+		name:"一个人住",
+		artist:"阿杜",
+		src:"tracks/12 一个人住.wma"
 	},
 	{
-		name:"Tomorrow's Way",
-		artist:"YUI",
-		src:"tracks/YUI - Tomorrow's Way.mp3"
+		name:"下雨的时候会想你",
+		artist:"阿杜",
+		src:"tracks/13 下雨的时候会想你.wma"
 	},
 	{
-		name:"Good-bye days",
-		artist:"YUI",
-		src:"tracks/YUI for 雨音薰 - Good-bye days(電影「太陽之歌」主題曲).mp3"
+		name:"ANDY",
+		artist:"阿杜",
+		src:"tracks/15 ANDY.wma"
 	},
 	{
-		name:"It's happy line",
-		artist:"YUI",
-		src:"tracks/YUI for 雨音薰 - It's happy line 太陽之歌插曲.mp3"
+		name:"天天看到你",
+		artist:"阿杜",
+		src:"tracks/16 天天看到你.wma"
 	},
 	{
-		name:"My friend",
-		artist:"YUI",
-		src:"tracks/YUI- My friend.mp3"
+		name:"祝你快乐",
+		artist:"阿杜",
+		src:"tracks/17 祝你快乐.wma"
 	},
 	{
-		name:"always",
-		artist:"倉木麻衣",
-		src:"tracks/always.mp3"
+		name:"一輩子的孤單",
+		artist:"劉若英",
+		src:"tracks/劉若英 - 一輩子的孤單.mp3"
 	},
 	{
-		name:"Growing of my heart",
-		artist:"倉木麻衣",
-		src:"tracks/Growing of my heart.mp3"
+		name:"我們沒有在一起",
+		artist:"劉若英",
+		src:"tracks/劉若英 - 我們沒有在一起.mp3"
 	},
 	{
-		name:"Secret of my heart",
-		artist:"倉木麻衣",
-		src:"tracks/Secret of my heart.mp3"
+		name:"幸福不是情歌",
+		artist:"劉若英",
+		src:"tracks/劉若英 - 幸福不是情歌.mp3"
 	},
 	{
-		name:"Start in my life",
-		artist:"倉木麻衣",
-		src:"tracks/Start in my life.mp3"
+		name:"很愛很愛你",
+		artist:"劉若英",
+		src:"tracks/劉若英 - 很愛很愛你.mp3"
 	},
 	{
-		name:"Time after time",
-		artist:"倉木麻衣",
-		src:"tracks/Time after time~花舞う街で~.mp3"
+		name:"當愛在靠近",
+		artist:"劉若英",
+		src:"tracks/劉若英 - 當愛在靠近.mp3"
 	},
 	{
-		name:"風のららら",
-		artist:"倉木麻衣",
-		src:"tracks/風のららら.mp3"
+		name:"親愛的路人",
+		artist:"劉若英",
+		src:"tracks/劉若英 - 親愛的路人.mp3"
 	},
 	{
-		name:"Winter Bells",
-		artist:"倉木麻衣",
-		src:"tracks/Winter Bells.mp3"
+		name:"成全",
+		artist:"劉若英",
+		src:"tracks/劉若英-成全.mp3"
 	},
 	{
-		name:"渡月橋 ~君 想ふ~",
-		artist:"倉木麻衣",
-		src:"tracks/渡月橋 ~君 想ふ~.mp3"
+		name:"後來",
+		artist:"劉若英",
+		src:"tracks/劉若英-後來.mp3"
 	}
 ];
